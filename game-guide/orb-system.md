@@ -57,17 +57,7 @@ ORB มีระดับ
 
 ORB อาจมีหลายประเภท เช่น
 
-| ORB Type    | Stat Effect     |
-| ----------- | --------------- |
-| Orange ORB  | Hit Attack      |
-| Skyblue ORB | Grip Attack     |
-| Green ORB   | Hit Defense     |
-| Purple ORB  | Grip Defense    |
-| Yellow ORB  | Critical        |
-| Red ORB     | HP              |
-| Blue ORB    | SP              |
-| White ORB   | Critical Damage |
-| Violet ORB  | Team Attack     |
+<table><thead><tr><th width="95">Colors</th><th>ORB Types</th><th>Stats Effect</th></tr></thead><tbody><tr><td>🟠</td><td>Orange ORB</td><td>Hit Attack</td></tr><tr><td>🔵</td><td>Skyblue ORB</td><td>Grip Attack</td></tr><tr><td>🟢</td><td>Green ORB</td><td>Hit Defense</td></tr><tr><td>🟣</td><td>Purple ORB</td><td>Grip Defense</td></tr><tr><td>🟡</td><td>Yellow ORB</td><td>Critical</td></tr><tr><td>🔴</td><td>Red ORB</td><td>HP</td></tr><tr><td>🔵</td><td>Blue ORB</td><td>SP</td></tr><tr><td>⚪</td><td>White ORB</td><td>Critical Damage</td></tr><tr><td>🟣</td><td>Violet ORB</td><td>Team Attack</td></tr></tbody></table>
 
 ตัวอย่าง
 
