@@ -56,4 +56,4 @@
   * [2v2 Tournament](game-guide/pvp-system/2v2-tournament.md)
 * [⛏️ Drilling System](game-guide/drilling-system.md)
 * [🎣 Fishing System](game-guide/fishing-system.md)
-* [Exchange System](game-guide/exchange-system.md)
+* [💱 Exchange System](game-guide/exchange-system.md)

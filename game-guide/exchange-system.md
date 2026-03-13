@@ -1,4 +1,4 @@
-# Exchange System
+# 💱 Exchange System
 
 ### Overview
 
@@ -29,7 +29,7 @@
 ผู้เล่นสามารถ Register ไอเทมจาก
 
 ```
-MY ITEM LIST
+MY ITEM LIST (MAXIMUM 5 PIECES/LAP)
 ```
 
 ไปยัง
@@ -47,7 +47,7 @@ Trade Slot
 ผู้เล่นสามารถ กรอกจำนวน Zen
 
 ```
-MY Zen (Z)
+(Z)MY Zen (MAXIMUM 98,000,000/LAP)
 ```
 
 ไปยัง
