@@ -15,7 +15,7 @@
 
 ระบบนี้เป็น **Core Progression System** ของเกม
 
-## 2. Equipment Slot Structure
+## Equipment Slot Structure
 
 ชุดตัวละครสามารถติด ORB ได้ทั้งหมด
 
@@ -37,7 +37,7 @@
 | Hat    | หมวก        |
 | Ring   | แหวน        |
 
-## 3. ORB Levels
+## ORB Levels
 
 ORB มีระดับ
 
@@ -53,7 +53,7 @@ ORB มีระดับ
 
 ***
 
-## 4. ORB Types
+## ORB Types
 
 ORB อาจมีหลายประเภท เช่น
 
@@ -79,7 +79,7 @@ Yellow Orb +10
 
 ***
 
-## 5. ORB Upgrade System
+## ORB Upgrade System
 
 <figure><img src="../.gitbook/assets/image (3).png" alt="" width="563"><figcaption></figcaption></figure>
 
@@ -119,7 +119,7 @@ Yellow Orb +10
 
 ***
 
-### 6. ORB Socket System
+### ORB Socket System
 
 ผู้เล่นสามารถใส่ ORB ลงใน Costume
 
