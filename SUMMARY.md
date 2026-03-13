@@ -40,7 +40,7 @@
     * [Judo](game-guide/class-system/rush-class/judo.md)
     * [Hapkido](game-guide/class-system/rush-class/hapkido.md)
     * [Sambo](game-guide/class-system/rush-class/sambo.md)
-* [🤝 Gang System](game-guide/gang-system/README.md)
+* [🤝 Gang System](game-guide/gang-system.md)
   * [Gang Create](game-guide/gang-system/gang-create.md)
 * [🎽 Equipment System](game-guide/equipment-system/README.md)
   * [Equipment Tier](game-guide/equipment-system/equipment-tier.md)

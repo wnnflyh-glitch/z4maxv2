@@ -1,8 +1,8 @@
 # 🤝 Gang System
 
-## 1. หน้าหลักของ Gang (Gang Info)
+## 1. ![](../.gitbook/assets/image.png)หน้าหลักของ Gang (Gang Info)
 
-<figure><img src="../../.gitbook/assets/image (48).png" alt="" width="434"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (48).png" alt="" width="434"><figcaption></figcaption></figure>
 
 จากภาพ เป็นหน้าข้อมูล Gang หลัก
 
@@ -39,7 +39,7 @@
 
 #### ส่วนที่สามารถแก้ไขได้
 
-<figure><img src="../../.gitbook/assets/1773374957541.gif" alt="" width="439"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/1773374957541.gif" alt="" width="439"><figcaption></figcaption></figure>
 
 **คำแนะนำ Gang**
 
@@ -61,7 +61,7 @@
 
 ## 3. ระบบสมาชิก Gang (Gang Member)
 
-<figure><img src="../../.gitbook/assets/image (49).png" alt="" width="434"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (49).png" alt="" width="434"><figcaption></figcaption></figure>
 
 จากภาพที่สาม เป็นหน้ารายชื่อสมาชิก
 
