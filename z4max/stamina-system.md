@@ -67,6 +67,8 @@ Stamina จะถูกใช้เมื่อผู้เล่นเข้า
 
 ## Max Stamina System
 
+<figure><img src="../.gitbook/assets/image (57).png" alt="" width="563"><figcaption></figcaption></figure>
+
 จำนวน **Max Stamina** ที่ผู้เล่นสามารถมีได้ในแต่ละวันจะขึ้นอยู่กับ **Level ของตัวละคร**
 
 เมื่อผู้เล่นเลเวลสูงขึ้น
