@@ -6,6 +6,8 @@
 
 ## 1. Wells
 
+<figure><img src="../../.gitbook/assets/image (51).png" alt="" width="200"><figcaption></figcaption></figure>
+
 **Basic Profile**
 
 | Attribute  | Value                  |
@@ -29,6 +31,8 @@ Wells เป็นชายหนุ่มรูปร่างแข็งแ�
 ***
 
 ## 2. Ray
+
+<figure><img src="../../.gitbook/assets/image (52).png" alt="" width="200"><figcaption></figcaption></figure>
 
 **Basic Profile**
 
@@ -54,6 +58,8 @@ Ray เป็นนักกีฬาสุดเย็นชาและเป�
 
 ## 3. Joony
 
+<figure><img src="../../.gitbook/assets/image (53).png" alt="" width="200"><figcaption></figcaption></figure>
+
 **Basic Profile**
 
 | Attribute  | Value                        |
@@ -78,6 +84,8 @@ Joony เป็นลูกชายของ **Davark** นักสู้ร�
 
 ## 4. Lilru
 
+<figure><img src="../../.gitbook/assets/image (54).png" alt="" width="200"><figcaption></figcaption></figure>
+
 **Basic Profile**
 
 | Attribute  | Value   |
@@ -101,6 +109,8 @@ Lilru เป็นเชฟสาวที่เปิดร้านอาห�
 
 ## 5. Nicky
 
+<figure><img src="../../.gitbook/assets/image (55).png" alt="" width="200"><figcaption></figcaption></figure>
+
 **Basic Profile**
 
 | Attribute  | Value                     |
@@ -123,6 +133,8 @@ Nicky เป็นนักสืบที่ได้รับมอบหม�
 ***
 
 ## 6. Sera
+
+<figure><img src="../../.gitbook/assets/image (56).png" alt="" width="200"><figcaption></figcaption></figure>
 
 **Basic Profile**
 
