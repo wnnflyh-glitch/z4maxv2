@@ -1,6 +1,6 @@
 # ⚪ ORB System
 
-<figure><img src="../../.gitbook/assets/image.png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2).png" alt="" width="563"><figcaption></figcaption></figure>
 
 ### Overview
 
@@ -61,7 +61,7 @@ ORB อาจมีหลายประเภท เช่น
 
 ตัวอย่าง
 
-<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 ```
 Yellow Orb +10

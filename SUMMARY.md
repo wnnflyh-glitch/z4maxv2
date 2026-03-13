@@ -20,7 +20,9 @@
 * [👑 VIP System](z4max/vip-system.md)
 * [🔢 Battle Pass System](z4max/battle-pass-system.md)
 * [🏆 Ranking System](z4max/ranking-system.md)
-* [⚔️ Gang War](z4max/gang-war.md)
+* [⚠️ Gang War Max](z4max/gang-war-max/README.md)
+  * [Gang War Resgisteration](z4max/gang-war-max/gang-war-resgisteration.md)
+  * [Gang War Matching System](z4max/gang-war-max/gang-war-matching-system.md)
 
 ## GAME GUIDE
 
