@@ -6,7 +6,7 @@
 
 โดยผู้เล่นต้องใช้ไอเทมพิเศษ
 
-<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
 
 ## 1. Usage Rule
 
@@ -28,13 +28,13 @@
 
 #### Step 1
 
-ผู้เล่นเปิด My Room  ![](<../.gitbook/assets/image (7).png>)
+ผู้เล่นเปิด My Room  ![](<../../.gitbook/assets/image (7).png>)
 
 ```
 My Room
 ```
 
-<figure><img src="../.gitbook/assets/12.gif" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/12.gif" alt="" width="563"><figcaption></figcaption></figure>
 
 Use Item > ORB Detach
 
@@ -46,7 +46,7 @@ ORB Detach Item
 
 #### Step 3
 
-<figure><img src="../.gitbook/assets/13.gif" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/13.gif" alt="" width="563"><figcaption></figcaption></figure>
 
 Confirm Item ที่ต้องการใช้งาน
 
@@ -58,9 +58,9 @@ Unsocket ORB
 
 #### Result
 
-<figure><img src="../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
 
 ผลลัพธ์
 

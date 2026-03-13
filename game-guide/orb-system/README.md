@@ -1,6 +1,6 @@
-# ORB System
+# ⚪ ORB System
 
-<figure><img src="../.gitbook/assets/image.png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image.png" alt="" width="563"><figcaption></figcaption></figure>
 
 ### Overview
 
@@ -61,7 +61,7 @@ ORB อาจมีหลายประเภท เช่น
 
 ตัวอย่าง
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 ```
 Yellow Orb +10
@@ -71,7 +71,7 @@ Yellow Orb +10
 
 ## ORB Upgrade System
 
-<figure><img src="../.gitbook/assets/image (3).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3).png" alt="" width="563"><figcaption></figcaption></figure>
 
 จากภาพ
 
@@ -93,13 +93,13 @@ Yellow Orb +10
 
 ผลลัพธ์
 
-<figure><img src="../.gitbook/assets/Success.gif" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Success.gif" alt="" width="563"><figcaption></figcaption></figure>
 
 | Result  | Description |
 | ------- | ----------- |
 | Success | ORB Level+1 |
 
-<figure><img src="../.gitbook/assets/Fail.gif" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Fail.gif" alt="" width="563"><figcaption></figcaption></figure>
 
 ผลลัพธ์
 
@@ -113,9 +113,9 @@ Yellow Orb +10
 
 ผู้เล่นสามารถใส่ ORB ลงใน Costume
 
-<figure><img src="../.gitbook/assets/Step 1.gif" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Step 1.gif" alt="" width="563"><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/Step 2.gif" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Step 2.gif" alt="" width="563"><figcaption></figcaption></figure>
 
 #### Socket Process
 

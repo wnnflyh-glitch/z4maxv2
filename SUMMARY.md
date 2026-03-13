@@ -57,5 +57,5 @@
 * [⛏️ Drilling System](game-guide/drilling-system.md)
 * [🎣 Fishing System](game-guide/fishing-system.md)
 * [💱 Exchange System](game-guide/exchange-system.md)
-* [ORB System](game-guide/orb-system.md)
-* [ORB Deatch](game-guide/orb-deatch.md)
+* [⚪ ORB System](game-guide/orb-system/README.md)
+  * [ORB Deatch](game-guide/orb-system/orb-deatch.md)
