@@ -20,6 +20,8 @@
 * [👑 VIP System](z4max/vip-system.md)
 * [🔢 Battle Pass System](z4max/battle-pass-system.md)
 * [🏆 Ranking System](z4max/ranking-system.md)
+* [🛠️ Craft System](z4max/craft-system.md)
+* [📚 Collection System](z4max/collection-system.md)
 * [⚠️ Gang War Max](z4max/gang-war-max/README.md)
   * [Gang War Resgisteration](z4max/gang-war-max/gang-war-resgisteration.md)
   * [Gang War Matching System](z4max/gang-war-max/gang-war-matching-system.md)

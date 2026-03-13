@@ -35,7 +35,7 @@ Registration Rules
 
 1️⃣ Gang Leader เปิดเมนู
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ```
 Gang War Registration
@@ -99,7 +99,7 @@ Register
 
 1️⃣ เปิดเมนู
 
-<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ```
 Club Tournament Status

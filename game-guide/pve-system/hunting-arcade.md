@@ -15,7 +15,7 @@
 
 <figure><img src="../../.gitbook/assets/1773117950433.gif" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (2) (1) (1).png" alt="" width="507"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1).png" alt="" width="507"><figcaption></figcaption></figure>
 
 ## Hunting Land
 

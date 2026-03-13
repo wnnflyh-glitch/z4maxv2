@@ -6,7 +6,7 @@
 
 โดยผู้เล่นต้องใช้ไอเทมพิเศษ
 
-<figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## 1. Usage Rule
 
@@ -28,7 +28,7 @@
 
 #### Step 1
 
-ผู้เล่นเปิด My Room  ![](<../../.gitbook/assets/image (7).png>)
+ผู้เล่นเปิด My Room  ![](<../../.gitbook/assets/image (7) (1).png>)
 
 ```
 My Room
@@ -60,7 +60,7 @@ Unsocket ORB
 
 <figure><img src="../../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (9) (1).png" alt=""><figcaption></figcaption></figure>
 
 ผลลัพธ์
 
