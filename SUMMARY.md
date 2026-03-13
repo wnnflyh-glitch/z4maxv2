@@ -20,6 +20,7 @@
 * [👑 VIP System](z4max/vip-system.md)
 * [🔢 Battle Pass System](z4max/battle-pass-system.md)
 * [🏆 Ranking System](z4max/ranking-system.md)
+* [⚔️ Gang War](z4max/gang-war.md)
 
 ## GAME GUIDE
 
@@ -39,7 +40,8 @@
     * [Judo](game-guide/class-system/rush-class/judo.md)
     * [Hapkido](game-guide/class-system/rush-class/hapkido.md)
     * [Sambo](game-guide/class-system/rush-class/sambo.md)
-* [🤝 Gang System](game-guide/gang-system.md)
+* [🤝 Gang System](game-guide/gang-system/README.md)
+  * [Gang Create](game-guide/gang-system/gang-create.md)
 * [🎽 Equipment System](game-guide/equipment-system/README.md)
   * [Equipment Tier](game-guide/equipment-system/equipment-tier.md)
   * [Equipment Set System](game-guide/equipment-system/equipment-set-system.md)
