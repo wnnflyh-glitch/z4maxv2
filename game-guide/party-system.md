@@ -140,11 +140,11 @@ Select Form Party
 
 **Join Party**
 
-<figure><img src="../.gitbook/assets/image (6).png" alt="" width="543"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (6) (1).png" alt="" width="543"><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (7).png" alt="" width="263"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (7) (1).png" alt="" width="263"><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (8) (1).png" alt=""><figcaption></figcaption></figure>
 
 ระบบจะแสดง
 
@@ -178,7 +178,7 @@ Leader มีสิทธิ์
 
 ### **Item Distribution System**
 
-<figure><img src="../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (10) (1).png" alt=""><figcaption></figcaption></figure>
 
 > The Party Item Distribution System determines how loot dropped from monsters or missions is allocated among party members.\
 > Party leaders can configure the distribution method before starting cooperative activities.

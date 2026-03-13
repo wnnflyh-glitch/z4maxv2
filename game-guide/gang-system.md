@@ -1,6 +1,6 @@
 # 🤝 Gang System
 
-## 1. ![](../.gitbook/assets/image.png)หน้าหลักของ Gang (Gang Info)
+## 1. ![](<../.gitbook/assets/image (12).png>)หน้าหลักของ Gang (Gang Info)
 
 <figure><img src="../.gitbook/assets/image (48).png" alt="" width="434"><figcaption></figcaption></figure>
 
