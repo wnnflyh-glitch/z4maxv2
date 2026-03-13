@@ -16,6 +16,8 @@
 
 ## Crafting Categories
 
+<figure><img src="../.gitbook/assets/1773412440734.gif" alt=""><figcaption></figcaption></figure>
+
 ระบบ Craft ถูกแบ่งออกเป็นหมวดหมู่ของไอเท็ม
 
 <figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
