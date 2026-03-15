@@ -59,7 +59,26 @@ Mix
 ```
 
 ระบบจะเริ่มกระบวนการสุ่ม
-
-
 {% endstep %}
 {% endstepper %}
+
+## Result
+
+เมื่อ Mix สำเร็จ
+
+ระบบจะ
+
+1. ลบ Costume เดิมทั้งสองชิ้น
+2. สร้าง Costume ใหม่
+3. ส่งไอเทมใหม่เข้าสู่ Inventory
+
+## Failure Handling
+
+หากการ Mix ล้มเหลว
+
+<figure><img src="../.gitbook/assets/Costume Mix.gif" alt=""><figcaption></figcaption></figure>
+
+ผลลัพธ์เป็น
+
+* ไม่ได้รับไอเทม
+* Sub Item ถูกทำลาย 1 ชิ้น
