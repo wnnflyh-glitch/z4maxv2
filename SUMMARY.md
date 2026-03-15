@@ -62,7 +62,7 @@
 * [⛏️ Drill System](game-guide/drill-system.md)
 * [💱 Exchange System](game-guide/exchange-system.md)
 * [⚪ ORB System](game-guide/orb-system/README.md)
-  * [ORB Detach](game-guide/orb-system/orb-detach.md)
+  * [ORB Detach](game-guide/orb-system/orb-deatch.md)
 * [🟦 Cloning System](game-guide/cloning-system.md)
 * [Costume Mix System](game-guide/costume-mix-system.md)
 * [Skill System](game-guide/skill-system/README.md)

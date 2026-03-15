@@ -1,4 +1,4 @@
-# ORB Deatch
+# ORB Detach
 
 ### Overview
 
@@ -8,7 +8,7 @@
 
 <figure><img src="../../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
 
-## 1. Usage Rule
+### Usage Rule
 
 กฎการใช้งาน
 
@@ -36,7 +36,7 @@ My Room
 
 <figure><img src="../../.gitbook/assets/12.gif" alt="" width="563"><figcaption></figcaption></figure>
 
-Use Item > ORB Detach
+Use Item > ORB Detach > Costume Registration
 
 ```
 ORB Detach Item
@@ -44,11 +44,11 @@ ORB Detach Item
 
 ***
 
-#### Step 3
+#### Step 2
 
 <figure><img src="../../.gitbook/assets/13.gif" alt="" width="563"><figcaption></figcaption></figure>
 
-Confirm Item ที่ต้องการใช้งาน
+Confirm Costume Item ที่ต้องการใช้งาน
 
 ```
 Unsocket ORB
