@@ -69,8 +69,7 @@ Mix
 ระบบจะ
 
 1. ลบ Costume เดิมทั้งสองชิ้น
-2. สร้าง Costume ใหม่
-3. ส่งไอเทมใหม่เข้าสู่ Inventory
+2. ส่งไอเทมใหม่เข้าสู่ Inventory
 
 ## Failure Handling
 
