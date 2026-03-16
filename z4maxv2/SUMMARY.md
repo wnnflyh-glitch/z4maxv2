@@ -65,9 +65,9 @@
   * [ORB Detach](game-guide/orb-system/orb-deatch.md)
 * [🟦 Cloning System](game-guide/cloning-system.md)
 * [🎛️ Costume Mix System](game-guide/costume-mix-system.md)
-* [Skill System](game-guide/skill-system/README.md)
-  * [Skill Upgrade System](game-guide/skill-system/skill-upgrade-system.md)
-  * [Skill Shop](game-guide/skill-system/skill-shop.md)
+* [🤸‍♂️ Skill System](game-guide/skill-upgrade-system/README.md)
+  * [Skill Upgrade System](game-guide/skill-upgrade-system/skill-upgrade-system.md)
+  * [Skill Shop](game-guide/skill-upgrade-system/skill-shop.md)
 * [Pet System](game-guide/pet-system.md)
 
 ## OTHER INFORMATION
