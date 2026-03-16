@@ -162,35 +162,3 @@ Skills in Possession
 * Unequip
 
 Skill ได้
-
-***
-
-## Skill Upgrade System
-
-ผู้เล่นสามารถ upgrade skill เพื่อเพิ่ม
-
-* Damage
-
-## Skill Damage Scaling
-
-การ upgrade skill จะเพิ่ม
-
-> **ประมาณ 4–5% ต่อระดับ**
-
-***
-
-### Skill Scaling Table
-
-| Level | \[PvP Mode] | \[PvE Mode] |
-| ----- | ----------- | ----------- |
-| 0     | 0%          | 0%          |
-| 1     | 1%          | 10%         |
-| 2     | 2%          | 20%         |
-| 3     | 3%          | 30%         |
-| 4     | 5%          | 50%         |
-| 5     | 7%          | 70%         |
-| 6     | 9%          | 90%         |
-| 7     | 14%         | 140%        |
-| 8     | 20%         | 200%        |
-| 9     | 27%         | 270%        |
-| 10    | 35%         | 350%        |
