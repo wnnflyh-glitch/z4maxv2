@@ -53,7 +53,8 @@
 * [👾 PvE System](game-guide/pve-system/README.md)
   * [Normal Arcade](game-guide/pve-system/normal-arcade.md)
   * [Hunting Arcade](game-guide/pve-system/hunting-arcade.md)
-  * [1-50 Challenge](game-guide/pve-system/1-50-floor.md)
+  * [1-50 Challenge Arcade](game-guide/pve-system/1-50-floor.md)
+  * [Hidden Arcade](game-guide/pve-system/hidden-arcade.md)
 * [🤾 PvP System](game-guide/pvp-system/README.md)
   * [Death Match](game-guide/pvp-system/death-match.md)
   * [Duel Mode](game-guide/pvp-system/duel-mode.md)
@@ -66,6 +67,7 @@
 * [🎛️ Costume Mix System](game-guide/costume-mix-system.md)
 * [Skill System](game-guide/skill-system/README.md)
   * [Skill Upgrade System](game-guide/skill-system/skill-upgrade-system.md)
+  * [Skill Shop](game-guide/skill-system/skill-shop.md)
 * [Pet System](game-guide/pet-system.md)
 
 ## OTHER INFORMATION

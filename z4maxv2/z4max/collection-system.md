@@ -54,7 +54,7 @@ Collection Book แบ่งหมวดหมู่การสะสมออ�
 
 ในบาง  Collection จะประกอบด้วย **Item Set**
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 ตัวอย่างเช่น
 
@@ -66,11 +66,11 @@ Collection Book แบ่งหมวดหมู่การสะสมออ�
 
 เมื่อผู้เล่นสะสมไอเท็มครบตามเงื่อนไข
 
-<figure><img src="../.gitbook/assets/image (1).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 ระบบจะปลดล็อค **Collection Reward**
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 ตัวอย่างรางวัล
 

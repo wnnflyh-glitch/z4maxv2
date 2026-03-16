@@ -56,4 +56,4 @@ Trade Slot
 (Z) Zen Slot
 ```
 
-<figure><img src="../.gitbook/assets/2 (1).gif" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/2 (1) (1).gif" alt="" width="563"><figcaption></figcaption></figure>
