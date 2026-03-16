@@ -75,9 +75,7 @@ Exit Instance
 
 ผู้เล่นจะถูกพาออกจาก Hunting Arcade เมื่อเกิดเงื่อนไขใดเงื่อนไขหนึ่งต่อไปนี้
 
-***
-
-## 3. Time Limit Condition
+### 2.1 Time Limit Condition
 
 เงื่อนไขแรกคือ **หมดเวลา**
 
@@ -101,9 +99,7 @@ Exit Instance
 * ควบคุม economy ของเกม
 * สร้าง session gameplay
 
-***
-
-## 4. Key Collection Objective
+#### 2.1.1 Key Collection Objective
 
 <figure><img src="../../.gitbook/assets/1773119815761.gif" alt=""><figcaption></figcaption></figure>
 
@@ -133,7 +129,7 @@ Boss Gate จะถูกปลดล็อก
 
 ***
 
-## 5. Boss Kill Condition
+### 2.2 Boss Kill Condition
 
 <figure><img src="../../.gitbook/assets/1773120231409.gif" alt=""><figcaption></figcaption></figure>
 
@@ -166,7 +162,7 @@ BOSS KILL 1 / 1
 
 ***
 
-## 6. Session End Conditions
+## 3. Session End Conditions
 
 สรุปเงื่อนไขการจบ session
 
