@@ -68,3 +68,8 @@
 * [Skill System](game-guide/skill-system/README.md)
   * [Skill Upgrade System](game-guide/skill-system/skill-upgrade-system.md)
 * [Pet System](game-guide/pet-system.md)
+
+## OTHER INFORMATION
+
+* [🔗 Official Links](other-information/official-links.md)
+* [🖥️ PC Specifications](other-information/pc-specifications.md)
