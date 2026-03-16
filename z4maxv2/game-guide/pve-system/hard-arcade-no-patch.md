@@ -1,2 +1,0 @@
-# Hard Arcade (No Patch)
-
