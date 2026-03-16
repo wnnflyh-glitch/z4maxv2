@@ -15,10 +15,8 @@
 ## ระบบหลักที่ควรทราบใน Z4MAX
 
 * [🔁 Mint System](z4max/mint-system.md)
-* [➕ Character Stats Upgrade](z4max/character-stats-upgrade.md)
 * [⚡ Stamina System](z4max/stamina-system.md)
 * [👑 VIP System](z4max/vip-system.md)
-* [🔢 Battle Pass System](z4max/battle-pass-system.md)
 * [🏆 Ranking System](z4max/ranking-system.md)
 * [🛠️ Craft System](z4max/craft-system.md)
 * [📚 Collection System](z4max/collection-system.md)
@@ -59,7 +57,6 @@
   * [Death Match](game-guide/pvp-system/death-match.md)
   * [Duel Mode](game-guide/pvp-system/duel-mode.md)
   * [2v2 Tournament](game-guide/pvp-system/2v2-tournament.md)
-* [⛏️ Drill System](game-guide/drill-system.md)
 * [💱 Exchange System](game-guide/exchange-system.md)
 * [⚪ ORB System](game-guide/orb-system/README.md)
   * [ORB Detach](game-guide/orb-system/orb-deatch.md)
@@ -68,7 +65,6 @@
 * [🤸‍♂️ Skill System](game-guide/skill-upgrade-system/README.md)
   * [Skill Upgrade System](game-guide/skill-upgrade-system/skill-upgrade-system.md)
   * [Skill Shop](game-guide/skill-upgrade-system/skill-shop.md)
-* [Pet System](game-guide/pet-system.md)
 
 ## OTHER INFORMATION
 
